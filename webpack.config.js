@@ -7,9 +7,13 @@ module.exports = {
         path: path.resolve(__dirname),
         filename: 'index_bundle.js',
     },
+    resolve: {
+        extensions: ['*', '.js', '.jsx']
+    },
     plugins: [
         new HtmlWebpackPlugin({
-            template: './public/index.html'
+            template: './public/vr.html',
+            template: './public/cellfabrik.html'
         })
     ]
 };
