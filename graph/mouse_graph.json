@@ -6,7 +6,10 @@
       "max_lifespan": 259,
       "min_lifespan": 259,
       "avg_lifespan": 259,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "p18",
@@ -14,7 +17,10 @@
       "max_lifespan": 352,
       "min_lifespan": 352,
       "avg_lifespan": 352,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Cyp27b1;Fgf23",
@@ -22,7 +28,10 @@
       "max_lifespan": 650,
       "min_lifespan": 650,
       "avg_lifespan": 650,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "bax;Ku70",
@@ -30,7 +39,10 @@
       "max_lifespan": 308,
       "min_lifespan": 217,
       "avg_lifespan": 263.666666666667,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Mgat5;Pten",
@@ -38,7 +50,10 @@
       "max_lifespan": 450,
       "min_lifespan": 310,
       "avg_lifespan": 400,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "E2f1;Rb1",
@@ -46,7 +61,10 @@
       "max_lifespan": 521,
       "min_lifespan": 352,
       "avg_lifespan": 428,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Rb1",
@@ -54,7 +72,10 @@
       "max_lifespan": 340,
       "min_lifespan": 254,
       "avg_lifespan": 297,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Bub3;Rae1",
@@ -62,7 +83,10 @@
       "max_lifespan": 660,
       "min_lifespan": 660,
       "avg_lifespan": 660,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Mdm4",
@@ -70,7 +94,10 @@
       "max_lifespan": 538,
       "min_lifespan": 489,
       "avg_lifespan": 513.5,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Ku70;Ku80",
@@ -78,7 +105,10 @@
       "max_lifespan": 259,
       "min_lifespan": 259,
       "avg_lifespan": 259,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Ku80;Prkdc",
@@ -86,7 +116,10 @@
       "max_lifespan": 243.6,
       "min_lifespan": 230.3,
       "avg_lifespan": 236.95,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "K-ras;Mdm4",
@@ -94,7 +127,10 @@
       "max_lifespan": 267,
       "min_lifespan": 255,
       "avg_lifespan": 261,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Apc;Egr1;Trp53",
@@ -102,7 +138,10 @@
       "max_lifespan": 178,
       "min_lifespan": 178,
       "avg_lifespan": 178,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Apc;Ku80",
@@ -110,7 +149,10 @@
       "max_lifespan": 294,
       "min_lifespan": 231,
       "avg_lifespan": 262.5,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Apc;Trp53",
@@ -118,7 +160,10 @@
       "max_lifespan": 144,
       "min_lifespan": 144,
       "avg_lifespan": 144,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Apc;Egr1",
@@ -126,7 +171,10 @@
       "max_lifespan": 179,
       "min_lifespan": 178,
       "avg_lifespan": 178.5,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Hgf;Sod1",
@@ -134,7 +182,10 @@
       "max_lifespan": 295,
       "min_lifespan": 295,
       "avg_lifespan": 295,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Mobr;Sod1",
@@ -142,7 +193,10 @@
       "max_lifespan": 128,
       "min_lifespan": 128,
       "avg_lifespan": 128,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Ripk3;Sod1",
@@ -150,7 +204,10 @@
       "max_lifespan": 178,
       "min_lifespan": 170,
       "avg_lifespan": 174,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Sod1",
@@ -158,7 +215,10 @@
       "max_lifespan": 250,
       "min_lifespan": 118,
       "avg_lifespan": 173.75,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Kl;Pai1",
@@ -166,7 +226,10 @@
       "max_lifespan": 246,
       "min_lifespan": 163,
       "avg_lifespan": 204.5,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Kl",
@@ -174,7 +237,10 @@
       "max_lifespan": 58,
       "min_lifespan": 58,
       "avg_lifespan": 58,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Kv1.3;Mc4r",
@@ -182,7 +248,10 @@
       "max_lifespan": 669.167,
       "min_lifespan": 669.167,
       "avg_lifespan": 669.167,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Sirt6;Trp53",
@@ -190,7 +259,10 @@
       "max_lifespan": 344,
       "min_lifespan": 237,
       "avg_lifespan": 290.5,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "p27;Trp53",
@@ -198,7 +270,10 @@
       "max_lifespan": 114,
       "min_lifespan": 114,
       "avg_lifespan": 114,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "p18;Trp53",
@@ -206,7 +281,10 @@
       "max_lifespan": 163,
       "min_lifespan": 163,
       "avg_lifespan": 163,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Mdm4;Trp53",
@@ -214,7 +292,10 @@
       "max_lifespan": 325,
       "min_lifespan": 98,
       "avg_lifespan": 192.6,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "K-ras;Trp53",
@@ -222,7 +303,10 @@
       "max_lifespan": 266,
       "min_lifespan": 266,
       "avg_lifespan": 266,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Rbm38;Trp53",
@@ -230,7 +314,10 @@
       "max_lifespan": 490,
       "min_lifespan": 133,
       "avg_lifespan": 311.5,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Mclk1;Trp53",
@@ -238,7 +325,10 @@
       "max_lifespan": 430,
       "min_lifespan": 430,
       "avg_lifespan": 430,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Cp;Heph",
@@ -246,7 +336,10 @@
       "max_lifespan": 175,
       "min_lifespan": 175,
       "avg_lifespan": 175,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Cp",
@@ -254,7 +347,10 @@
       "max_lifespan": 175,
       "min_lifespan": 175,
       "avg_lifespan": 175,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Rad54",
@@ -262,7 +358,10 @@
       "max_lifespan": 630,
       "min_lifespan": 630,
       "avg_lifespan": 630,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Atm;Sirt6",
@@ -270,7 +369,10 @@
       "max_lifespan": 139,
       "min_lifespan": 137,
       "avg_lifespan": 138,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Atm;Rad54B",
@@ -278,7 +380,10 @@
       "max_lifespan": 168,
       "min_lifespan": 168,
       "avg_lifespan": 168,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Atm;Rad54",
@@ -286,7 +391,10 @@
       "max_lifespan": 140,
       "min_lifespan": 140,
       "avg_lifespan": 140,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Prkdc;Terc",
@@ -294,7 +402,10 @@
       "max_lifespan": 199,
       "min_lifespan": 199,
       "avg_lifespan": 199,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Terc;Trp53",
@@ -302,7 +413,10 @@
       "max_lifespan": 148,
       "min_lifespan": 148,
       "avg_lifespan": 148,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Cdkn1a;Terc",
@@ -310,7 +424,10 @@
       "max_lifespan": 604,
       "min_lifespan": 604,
       "avg_lifespan": 604,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Shc1;Terc",
@@ -318,7 +435,10 @@
       "max_lifespan": 718,
       "min_lifespan": 504,
       "avg_lifespan": 646.666666666667,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Atm;Terc",
@@ -326,7 +446,10 @@
       "max_lifespan": 380,
       "min_lifespan": 380,
       "avg_lifespan": 380,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Dmd;mdx;Utrn",
@@ -334,7 +457,10 @@
       "max_lifespan": 427,
       "min_lifespan": 427,
       "avg_lifespan": 427,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Mdx;Utrn",
@@ -342,7 +468,10 @@
       "max_lifespan": 274,
       "min_lifespan": 274,
       "avg_lifespan": 274,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Pink1;Snca",
@@ -350,7 +479,10 @@
       "max_lifespan": 546,
       "min_lifespan": 546,
       "avg_lifespan": 546,
-      "group": 2
+      "group": 2,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Sirt6",
@@ -358,7 +490,10 @@
       "max_lifespan": 24,
       "min_lifespan": 24,
       "avg_lifespan": 24,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Fgf23",
@@ -366,7 +501,10 @@
       "max_lifespan": 42,
       "min_lifespan": 42,
       "avg_lifespan": 42,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Ku70",
@@ -374,7 +512,10 @@
       "max_lifespan": 259,
       "min_lifespan": 147,
       "avg_lifespan": 196,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Mgat5",
@@ -382,7 +523,10 @@
       "max_lifespan": 675,
       "min_lifespan": 520,
       "avg_lifespan": 579.25,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Pten",
@@ -390,7 +534,10 @@
       "max_lifespan": 417,
       "min_lifespan": 289,
       "avg_lifespan": 353,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Rae1",
@@ -398,7 +545,10 @@
       "max_lifespan": 720,
       "min_lifespan": 720,
       "avg_lifespan": 720,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Bub3",
@@ -406,7 +556,10 @@
       "max_lifespan": 720,
       "min_lifespan": 720,
       "avg_lifespan": 720,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Prkdc",
@@ -414,7 +567,10 @@
       "max_lifespan": 364,
       "min_lifespan": 276.5,
       "avg_lifespan": 312.433333333333,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Ku80",
@@ -422,7 +578,10 @@
       "max_lifespan": 791,
       "min_lifespan": 226.8,
       "avg_lifespan": 403.76,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "K-ras",
@@ -430,7 +589,10 @@
       "max_lifespan": 373,
       "min_lifespan": 341,
       "avg_lifespan": 357,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Apc",
@@ -438,7 +600,10 @@
       "max_lifespan": 280,
       "min_lifespan": 255,
       "avg_lifespan": 267.5,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Rbm38",
@@ -446,7 +611,10 @@
       "max_lifespan": 749,
       "min_lifespan": 749,
       "avg_lifespan": 749,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Mc4r",
@@ -454,7 +622,10 @@
       "max_lifespan": 547.501,
       "min_lifespan": 547.501,
       "avg_lifespan": 547.501,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Kv1.3",
@@ -462,7 +633,10 @@
       "max_lifespan": 973.3,
       "min_lifespan": 973.3,
       "avg_lifespan": 973.3,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Trp53",
@@ -470,7 +644,10 @@
       "max_lifespan": 510,
       "min_lifespan": 118,
       "avg_lifespan": 310.444444444444,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Atm",
@@ -478,7 +655,10 @@
       "max_lifespan": 395,
       "min_lifespan": 110,
       "avg_lifespan": 246.666666666667,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Terc",
@@ -486,7 +666,10 @@
       "max_lifespan": 720,
       "min_lifespan": 320,
       "avg_lifespan": 518.25,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Snca",
@@ -494,7 +677,10 @@
       "max_lifespan": 226,
       "min_lifespan": 226,
       "avg_lifespan": 226,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Pink1",
@@ -502,7 +688,10 @@
       "max_lifespan": 592,
       "min_lifespan": 592,
       "avg_lifespan": 592,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     },
     {
       "genes": "Wild type",
@@ -510,7 +699,10 @@
       "max_lifespan": 1062,
       "min_lifespan": 372,
       "avg_lifespan": 725.824631578947,
-      "group": 1
+      "group": 1,
+      "wildtype_max_lifespan": 1062,
+      "wildtype_avg_lifespan": 725.824631578947,
+      "wildtype_min_lifespan": 372
     }
   ],
   "links": [

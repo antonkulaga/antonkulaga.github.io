@@ -14,6 +14,9 @@ const graph_path = path.join(__dirname, "graph")
 const read_json = file => JSON.parse(fs.readFileSync(file), "utf8")
 
 const syn_convert = (json) => {
+
+    const wildtype = jsonata(`elements.nodes.data[genes="Wild type"]`).evaluate(json)
+
     const query = `
     {
      "nodes": elements.nodes.data.{
@@ -21,14 +24,20 @@ const syn_convert = (json) => {
        "id":id, 
        "max_lifespan": max_lifespan_ ? max_lifespan_: -1,  
        "min_lifespan": min_lifespan_ ? min_lifespan_: -1,  
-       "avg_lifespan": avg_lifespan_ ? avg_lifespan_: -1,         
+       "avg_lifespan": avg_lifespan_ ? avg_lifespan_: -1,        
        "group": $contains(genes, ";") ? 2 : 1
        },
      "links": elements.edges.data.{"id": id, "source": source, "target": target, "name": name, "interaction": interaction}
     }
     `
     const nodes_exp = jsonata(query);
-    return nodes_exp.evaluate(json)
+    const results = nodes_exp.evaluate(json)
+    results.nodes.forEach(node => {
+        node.wildtype_max_lifespan = wildtype.max_lifespan_;
+        node.wildtype_avg_lifespan = wildtype.avg_lifespan_;
+        node.wildtype_min_lifespan = wildtype.min_lifespan_;
+    })
+    return results
 }
 
 program

@@ -9,8 +9,7 @@ export default class App extends React.Component {
   render(){
     return (
         <div className="App">
-            <div id="3d-graph"></div>
-            <Graph3D vr="true" json="graph/mouse_graph.json" />
+            <Graph3D vr="true" json="graph/worm_graph.json" />
         </div>
     );
   }
