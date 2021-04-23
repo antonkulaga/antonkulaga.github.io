@@ -45,6 +45,7 @@
   "homepage": "https://antonkulaga.github.io",
   "scripts": {
     "convert_mice": "./convert.js graph/mouse_network.cyjs graph/mouse_graph.json",
+    "convert_flies": "./convert.js graph/fly_network.cyjs graph/fly_graph.json",
     "convert_worms": "./convert.js graph/roundworm_info.cyjs graph/worm_graph.json",
     "build": "webpack --mode production",
     "start": "webpack serve --mode development --devtool inline-source-map --hot"

@@ -7,10 +7,13 @@ import SpriteText from "three-spritetext";
 
 export default class Graph3D extends React.Component {
 
+
     constructor(props) {
         super(props);
         this.json = !!props.json ? props.json : "graph/mouse_graph.json"
         this.vr = !!props.vr
+        this.simplify = !!props.simplify
+        Graph3D.simplify = this.simplify
     }
 
     render(){
@@ -32,6 +35,7 @@ export default class Graph3D extends React.Component {
     }
 
     node_to_advanced_text(node){
+        const simplify = Graph3D.simplify
         const group = new THREE.Group();
         const text = String(node.genes)
         const is_wild_type =  text === "Wild type"
@@ -64,7 +68,15 @@ export default class Graph3D extends React.Component {
                 opacity: 0.5
             })
         )
-        group.add(mesh)
+        if(simplify) {
+            sprite.borderWidth = 1
+            sprite.padding = 2
+            sprite.borderColor = geo_color
+        }
+        else
+        {
+            group.add(mesh)
+        }
 
         return group
     }
