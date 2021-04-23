@@ -16,8 +16,15 @@ const read_json = file => JSON.parse(fs.readFileSync(file), "utf8")
 const syn_convert = (json) => {
     const query = `
     {
-     "nodes": elements.nodes.data.{"genes":genes, "id":id, "max_lifespan": max_lifespan_ ? max_lifespan_: -1},
-     "edges": elements.edges.data.{"id": id, "source": source, "target": target, "name": name, "interaction": interaction}
+     "nodes": elements.nodes.data.{
+       "genes":genes, 
+       "id":id, 
+       "max_lifespan": max_lifespan_ ? max_lifespan_: -1,  
+       "min_lifespan": min_lifespan_ ? min_lifespan_: -1,  
+       "avg_lifespan": avg_lifespan_ ? avg_lifespan_: -1,         
+       "group": $contains(genes, ";") ? 2 : 1
+       },
+     "links": elements.edges.data.{"id": id, "source": source, "target": target, "name": name, "interaction": interaction}
     }
     `
     const nodes_exp = jsonata(query);

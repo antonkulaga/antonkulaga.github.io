@@ -3,325 +3,517 @@
     {
       "genes": "p27",
       "id": "11965",
-      "max_lifespan": 259
+      "max_lifespan": 259,
+      "min_lifespan": 259,
+      "avg_lifespan": 259,
+      "group": 1
     },
     {
       "genes": "p18",
       "id": "11963",
-      "max_lifespan": 352
+      "max_lifespan": 352,
+      "min_lifespan": 352,
+      "avg_lifespan": 352,
+      "group": 1
     },
     {
       "genes": "Cyp27b1;Fgf23",
       "id": "11961",
-      "max_lifespan": 650
+      "max_lifespan": 650,
+      "min_lifespan": 650,
+      "avg_lifespan": 650,
+      "group": 2
     },
     {
       "genes": "bax;Ku70",
       "id": "11959",
-      "max_lifespan": 308
+      "max_lifespan": 308,
+      "min_lifespan": 217,
+      "avg_lifespan": 263.666666666667,
+      "group": 2
     },
     {
       "genes": "Mgat5;Pten",
       "id": "11955",
-      "max_lifespan": 450
+      "max_lifespan": 450,
+      "min_lifespan": 310,
+      "avg_lifespan": 400,
+      "group": 2
     },
     {
       "genes": "E2f1;Rb1",
       "id": "11953",
-      "max_lifespan": 521
+      "max_lifespan": 521,
+      "min_lifespan": 352,
+      "avg_lifespan": 428,
+      "group": 2
     },
     {
       "genes": "Rb1",
       "id": "11952",
-      "max_lifespan": 340
+      "max_lifespan": 340,
+      "min_lifespan": 254,
+      "avg_lifespan": 297,
+      "group": 1
     },
     {
       "genes": "Bub3;Rae1",
       "id": "11949",
-      "max_lifespan": 660
+      "max_lifespan": 660,
+      "min_lifespan": 660,
+      "avg_lifespan": 660,
+      "group": 2
     },
     {
       "genes": "Mdm4",
       "id": "11946",
-      "max_lifespan": 538
+      "max_lifespan": 538,
+      "min_lifespan": 489,
+      "avg_lifespan": 513.5,
+      "group": 1
     },
     {
       "genes": "Ku70;Ku80",
       "id": "11941",
-      "max_lifespan": 259
+      "max_lifespan": 259,
+      "min_lifespan": 259,
+      "avg_lifespan": 259,
+      "group": 2
     },
     {
       "genes": "Ku80;Prkdc",
       "id": "11939",
-      "max_lifespan": 243.6
+      "max_lifespan": 243.6,
+      "min_lifespan": 230.3,
+      "avg_lifespan": 236.95,
+      "group": 2
     },
     {
       "genes": "K-ras;Mdm4",
       "id": "11937",
-      "max_lifespan": 267
+      "max_lifespan": 267,
+      "min_lifespan": 255,
+      "avg_lifespan": 261,
+      "group": 2
     },
     {
       "genes": "Apc;Egr1;Trp53",
       "id": "11933",
-      "max_lifespan": 178
+      "max_lifespan": 178,
+      "min_lifespan": 178,
+      "avg_lifespan": 178,
+      "group": 2
     },
     {
       "genes": "Apc;Ku80",
       "id": "11931",
-      "max_lifespan": 294
+      "max_lifespan": 294,
+      "min_lifespan": 231,
+      "avg_lifespan": 262.5,
+      "group": 2
     },
     {
       "genes": "Apc;Trp53",
       "id": "11929",
-      "max_lifespan": 144
+      "max_lifespan": 144,
+      "min_lifespan": 144,
+      "avg_lifespan": 144,
+      "group": 2
     },
     {
       "genes": "Apc;Egr1",
       "id": "11927",
-      "max_lifespan": 179
+      "max_lifespan": 179,
+      "min_lifespan": 178,
+      "avg_lifespan": 178.5,
+      "group": 2
     },
     {
       "genes": "Hgf;Sod1",
       "id": "11925",
-      "max_lifespan": 295
+      "max_lifespan": 295,
+      "min_lifespan": 295,
+      "avg_lifespan": 295,
+      "group": 2
     },
     {
       "genes": "Mobr;Sod1",
       "id": "11923",
-      "max_lifespan": 128
+      "max_lifespan": 128,
+      "min_lifespan": 128,
+      "avg_lifespan": 128,
+      "group": 2
     },
     {
       "genes": "Ripk3;Sod1",
       "id": "11921",
-      "max_lifespan": 178
+      "max_lifespan": 178,
+      "min_lifespan": 170,
+      "avg_lifespan": 174,
+      "group": 2
     },
     {
       "genes": "Sod1",
       "id": "11920",
-      "max_lifespan": 250
+      "max_lifespan": 250,
+      "min_lifespan": 118,
+      "avg_lifespan": 173.75,
+      "group": 1
     },
     {
       "genes": "Kl;Pai1",
       "id": "11918",
-      "max_lifespan": 246
+      "max_lifespan": 246,
+      "min_lifespan": 163,
+      "avg_lifespan": 204.5,
+      "group": 2
     },
     {
       "genes": "Kl",
       "id": "11917",
-      "max_lifespan": 58
+      "max_lifespan": 58,
+      "min_lifespan": 58,
+      "avg_lifespan": 58,
+      "group": 1
     },
     {
       "genes": "Kv1.3;Mc4r",
       "id": "11913",
-      "max_lifespan": 669.167
+      "max_lifespan": 669.167,
+      "min_lifespan": 669.167,
+      "avg_lifespan": 669.167,
+      "group": 2
     },
     {
       "genes": "Sirt6;Trp53",
       "id": "11911",
-      "max_lifespan": 344
+      "max_lifespan": 344,
+      "min_lifespan": 237,
+      "avg_lifespan": 290.5,
+      "group": 2
     },
     {
       "genes": "p27;Trp53",
       "id": "11909",
-      "max_lifespan": 114
+      "max_lifespan": 114,
+      "min_lifespan": 114,
+      "avg_lifespan": 114,
+      "group": 2
     },
     {
       "genes": "p18;Trp53",
       "id": "11907",
-      "max_lifespan": 163
+      "max_lifespan": 163,
+      "min_lifespan": 163,
+      "avg_lifespan": 163,
+      "group": 2
     },
     {
       "genes": "Mdm4;Trp53",
       "id": "11905",
-      "max_lifespan": 325
+      "max_lifespan": 325,
+      "min_lifespan": 98,
+      "avg_lifespan": 192.6,
+      "group": 2
     },
     {
       "genes": "K-ras;Trp53",
       "id": "11903",
-      "max_lifespan": 266
+      "max_lifespan": 266,
+      "min_lifespan": 266,
+      "avg_lifespan": 266,
+      "group": 2
     },
     {
       "genes": "Rbm38;Trp53",
       "id": "11901",
-      "max_lifespan": 490
+      "max_lifespan": 490,
+      "min_lifespan": 133,
+      "avg_lifespan": 311.5,
+      "group": 2
     },
     {
       "genes": "Mclk1;Trp53",
       "id": "11899",
-      "max_lifespan": 430
+      "max_lifespan": 430,
+      "min_lifespan": 430,
+      "avg_lifespan": 430,
+      "group": 2
     },
     {
       "genes": "Cp;Heph",
       "id": "11897",
-      "max_lifespan": 175
+      "max_lifespan": 175,
+      "min_lifespan": 175,
+      "avg_lifespan": 175,
+      "group": 2
     },
     {
       "genes": "Cp",
       "id": "11896",
-      "max_lifespan": 175
+      "max_lifespan": 175,
+      "min_lifespan": 175,
+      "avg_lifespan": 175,
+      "group": 1
     },
     {
       "genes": "Rad54",
       "id": "11894",
-      "max_lifespan": 630
+      "max_lifespan": 630,
+      "min_lifespan": 630,
+      "avg_lifespan": 630,
+      "group": 1
     },
     {
       "genes": "Atm;Sirt6",
       "id": "11892",
-      "max_lifespan": 139
+      "max_lifespan": 139,
+      "min_lifespan": 137,
+      "avg_lifespan": 138,
+      "group": 2
     },
     {
       "genes": "Atm;Rad54B",
       "id": "11890",
-      "max_lifespan": 168
+      "max_lifespan": 168,
+      "min_lifespan": 168,
+      "avg_lifespan": 168,
+      "group": 2
     },
     {
       "genes": "Atm;Rad54",
       "id": "11888",
-      "max_lifespan": 140
+      "max_lifespan": 140,
+      "min_lifespan": 140,
+      "avg_lifespan": 140,
+      "group": 2
     },
     {
       "genes": "Prkdc;Terc",
       "id": "11885",
-      "max_lifespan": 199
+      "max_lifespan": 199,
+      "min_lifespan": 199,
+      "avg_lifespan": 199,
+      "group": 2
     },
     {
       "genes": "Terc;Trp53",
       "id": "11883",
-      "max_lifespan": 148
+      "max_lifespan": 148,
+      "min_lifespan": 148,
+      "avg_lifespan": 148,
+      "group": 2
     },
     {
       "genes": "Cdkn1a;Terc",
       "id": "11881",
-      "max_lifespan": 604
+      "max_lifespan": 604,
+      "min_lifespan": 604,
+      "avg_lifespan": 604,
+      "group": 2
     },
     {
       "genes": "Shc1;Terc",
       "id": "11879",
-      "max_lifespan": 718
+      "max_lifespan": 718,
+      "min_lifespan": 504,
+      "avg_lifespan": 646.666666666667,
+      "group": 2
     },
     {
       "genes": "Atm;Terc",
       "id": "11877",
-      "max_lifespan": 380
+      "max_lifespan": 380,
+      "min_lifespan": 380,
+      "avg_lifespan": 380,
+      "group": 2
     },
     {
       "genes": "Dmd;mdx;Utrn",
       "id": "11875",
-      "max_lifespan": 427
+      "max_lifespan": 427,
+      "min_lifespan": 427,
+      "avg_lifespan": 427,
+      "group": 2
     },
     {
       "genes": "Mdx;Utrn",
       "id": "11874",
-      "max_lifespan": 274
+      "max_lifespan": 274,
+      "min_lifespan": 274,
+      "avg_lifespan": 274,
+      "group": 2
     },
     {
       "genes": "Pink1;Snca",
       "id": "11871",
-      "max_lifespan": 546
+      "max_lifespan": 546,
+      "min_lifespan": 546,
+      "avg_lifespan": 546,
+      "group": 2
     },
     {
       "genes": "Sirt6",
       "id": "11869",
-      "max_lifespan": 24
+      "max_lifespan": 24,
+      "min_lifespan": 24,
+      "avg_lifespan": 24,
+      "group": 1
     },
     {
       "genes": "Fgf23",
       "id": "11867",
-      "max_lifespan": 42
+      "max_lifespan": 42,
+      "min_lifespan": 42,
+      "avg_lifespan": 42,
+      "group": 1
     },
     {
       "genes": "Ku70",
       "id": "11865",
-      "max_lifespan": 259
+      "max_lifespan": 259,
+      "min_lifespan": 147,
+      "avg_lifespan": 196,
+      "group": 1
     },
     {
       "genes": "Mgat5",
       "id": "11863",
-      "max_lifespan": 675
+      "max_lifespan": 675,
+      "min_lifespan": 520,
+      "avg_lifespan": 579.25,
+      "group": 1
     },
     {
       "genes": "Pten",
       "id": "11861",
-      "max_lifespan": 417
+      "max_lifespan": 417,
+      "min_lifespan": 289,
+      "avg_lifespan": 353,
+      "group": 1
     },
     {
       "genes": "Rae1",
       "id": "11859",
-      "max_lifespan": 720
+      "max_lifespan": 720,
+      "min_lifespan": 720,
+      "avg_lifespan": 720,
+      "group": 1
     },
     {
       "genes": "Bub3",
       "id": "11857",
-      "max_lifespan": 720
+      "max_lifespan": 720,
+      "min_lifespan": 720,
+      "avg_lifespan": 720,
+      "group": 1
     },
     {
       "genes": "Prkdc",
       "id": "11855",
-      "max_lifespan": 364
+      "max_lifespan": 364,
+      "min_lifespan": 276.5,
+      "avg_lifespan": 312.433333333333,
+      "group": 1
     },
     {
       "genes": "Ku80",
       "id": "11853",
-      "max_lifespan": 791
+      "max_lifespan": 791,
+      "min_lifespan": 226.8,
+      "avg_lifespan": 403.76,
+      "group": 1
     },
     {
       "genes": "K-ras",
       "id": "11851",
-      "max_lifespan": 373
+      "max_lifespan": 373,
+      "min_lifespan": 341,
+      "avg_lifespan": 357,
+      "group": 1
     },
     {
       "genes": "Apc",
       "id": "11849",
-      "max_lifespan": 280
+      "max_lifespan": 280,
+      "min_lifespan": 255,
+      "avg_lifespan": 267.5,
+      "group": 1
     },
     {
       "genes": "Rbm38",
       "id": "11847",
-      "max_lifespan": 749
+      "max_lifespan": 749,
+      "min_lifespan": 749,
+      "avg_lifespan": 749,
+      "group": 1
     },
     {
       "genes": "Mc4r",
       "id": "11845",
-      "max_lifespan": 547.501
+      "max_lifespan": 547.501,
+      "min_lifespan": 547.501,
+      "avg_lifespan": 547.501,
+      "group": 1
     },
     {
       "genes": "Kv1.3",
       "id": "11843",
-      "max_lifespan": 973.3
+      "max_lifespan": 973.3,
+      "min_lifespan": 973.3,
+      "avg_lifespan": 973.3,
+      "group": 1
     },
     {
       "genes": "Trp53",
       "id": "11841",
-      "max_lifespan": 510
+      "max_lifespan": 510,
+      "min_lifespan": 118,
+      "avg_lifespan": 310.444444444444,
+      "group": 1
     },
     {
       "genes": "Atm",
       "id": "11839",
-      "max_lifespan": 395
+      "max_lifespan": 395,
+      "min_lifespan": 110,
+      "avg_lifespan": 246.666666666667,
+      "group": 1
     },
     {
       "genes": "Terc",
       "id": "11837",
-      "max_lifespan": 720
+      "max_lifespan": 720,
+      "min_lifespan": 320,
+      "avg_lifespan": 518.25,
+      "group": 1
     },
     {
       "genes": "Snca",
       "id": "11835",
-      "max_lifespan": 226
+      "max_lifespan": 226,
+      "min_lifespan": 226,
+      "avg_lifespan": 226,
+      "group": 1
     },
     {
       "genes": "Pink1",
       "id": "11833",
-      "max_lifespan": 592
+      "max_lifespan": 592,
+      "min_lifespan": 592,
+      "avg_lifespan": 592,
+      "group": 1
     },
     {
       "genes": "Wild type",
       "id": "11832",
-      "max_lifespan": 1062
+      "max_lifespan": 1062,
+      "min_lifespan": 372,
+      "avg_lifespan": 725.824631578947,
+      "group": 1
     }
   ],
-  "edges": [
+  "links": [
     {
       "id": "11966",
       "source": "11965",
