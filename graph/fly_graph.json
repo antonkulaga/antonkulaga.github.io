@@ -688,575 +688,575 @@
       "id": "11616",
       "source": "11615",
       "target": "11613",
-      "name": "3322 (direct) 3323",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11614",
       "source": "11612",
       "target": "11613",
-      "name": "3321 (direct) 3323",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11583",
       "source": "11581",
       "target": "11577",
-      "name": "3244 (direct) 3242",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11582",
       "source": "11579",
       "target": "11581",
-      "name": "3243 (direct) 3244",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11580",
       "source": "11579",
       "target": "11576",
-      "name": "3243 (direct) 3241",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11578",
       "source": "11576",
       "target": "11577",
-      "name": "3241 (direct) 3242",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11644",
       "source": "11571",
       "target": "11642",
-      "name": "6602 (direct) 6603",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11643",
       "source": "11569",
       "target": "11642",
-      "name": "6601 (direct) 6603",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11641",
       "source": "11567",
       "target": "11639",
-      "name": "6598 (direct) 6599",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11640",
       "source": "11565",
       "target": "11639",
-      "name": "6595 (direct) 6599",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11638",
       "source": "11565",
       "target": "11636",
-      "name": "6595 (direct) 6596",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11637",
       "source": "11563",
       "target": "11636",
-      "name": "6594 (direct) 6596",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11635",
       "source": "11561",
       "target": "11633",
-      "name": "6591 (direct) 6592",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11634",
       "source": "11559",
       "target": "11633",
-      "name": "6590 (direct) 6592",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11632",
       "source": "11557",
       "target": "11510",
-      "name": "6582 (direct) 6584",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11631",
       "source": "11555",
       "target": "11630",
-      "name": "6576 (direct) 6578",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11629",
       "source": "11553",
       "target": "11627",
-      "name": "3369 (direct) 3370",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11628",
       "source": "11551",
       "target": "11627",
-      "name": "3360 (direct) 3370",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11626",
       "source": "11551",
       "target": "11625",
-      "name": "3360 (direct) 3362",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11624",
       "source": "11549",
       "target": "11622",
-      "name": "3356 (direct) 3357",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11623",
       "source": "11547",
       "target": "11622",
-      "name": "3355 (direct) 3357",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11621",
       "source": "11545",
       "target": "11600",
-      "name": "3338 (direct) 6613",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11620",
       "source": "11545",
       "target": "11618",
-      "name": "3338 (direct) 3339",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11619",
       "source": "11543",
       "target": "11618",
-      "name": "3337 (direct) 3339",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11617",
       "source": "11541",
       "target": "11604",
-      "name": "3325 (direct) 3327",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11611",
       "source": "11539",
       "target": "11610",
-      "name": "3277 (direct) 3342",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11609",
       "source": "11539",
       "target": "11607",
-      "name": "3277 (direct) 3278",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11608",
       "source": "11537",
       "target": "11607",
-      "name": "3276 (direct) 3278",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11606",
       "source": "11535",
       "target": "11596",
-      "name": "3273 (direct) 3274",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11605",
       "source": "11533",
       "target": "11604",
-      "name": "3265 (direct) 3327",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11603",
       "source": "11533",
       "target": "11594",
-      "name": "3265 (direct) 3266",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11602",
       "source": "11531",
       "target": "11592",
-      "name": "3261 (direct) 3262",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11601",
       "source": "11529",
       "target": "11600",
-      "name": "3260 (direct) 6613",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11599",
       "source": "11529",
       "target": "11598",
-      "name": "3260 (direct) 6609",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11597",
       "source": "11529",
       "target": "11596",
-      "name": "3260 (direct) 3274",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11595",
       "source": "11529",
       "target": "11594",
-      "name": "3260 (direct) 3266",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11593",
       "source": "11529",
       "target": "11592",
-      "name": "3260 (direct) 3262",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11591",
       "source": "11527",
       "target": "11588",
-      "name": "3257 (direct) 3258",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11590",
       "source": "11525",
       "target": "11586",
-      "name": "3253 (direct) 3254",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11589",
       "source": "11523",
       "target": "11588",
-      "name": "3252 (direct) 3258",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11587",
       "source": "11523",
       "target": "11586",
-      "name": "3252 (direct) 3254",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11645",
       "source": "11521",
       "target": "11584",
-      "name": "3250 (different_experiments) 3246",
-      "interaction": "different_experiments"
+      "interaction": "different_experiments",
+      "curvature": 0.2
     },
     {
       "id": "11585",
       "source": "11519",
       "target": "11584",
-      "name": "3245 (direct) 3246",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11575",
       "source": "11517",
       "target": "11573",
-      "name": "3236 (direct) 3237",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11574",
       "source": "11515",
       "target": "11573",
-      "name": "3235 (direct) 3237",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11648",
       "source": "11512",
       "target": "11579",
-      "name": "3231 (different_experiments) 3243",
-      "interaction": "different_experiments"
+      "interaction": "different_experiments",
+      "curvature": 0.2
     },
     {
       "id": "11647",
       "source": "11512",
       "target": "11615",
-      "name": "3231 (different_experiments) 3322",
-      "interaction": "different_experiments"
+      "interaction": "different_experiments",
+      "curvature": 0.2
     },
     {
       "id": "11646",
       "source": "11512",
       "target": "11612",
-      "name": "3231 (different_experiments) 3321",
-      "interaction": "different_experiments"
+      "interaction": "different_experiments",
+      "curvature": 0.2
     },
     {
       "id": "11572",
       "source": "11512",
       "target": "11571",
-      "name": "3231 (direct) 6602",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11570",
       "source": "11512",
       "target": "11569",
-      "name": "3231 (direct) 6601",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11568",
       "source": "11512",
       "target": "11567",
-      "name": "3231 (direct) 6598",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11566",
       "source": "11512",
       "target": "11565",
-      "name": "3231 (direct) 6595",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11564",
       "source": "11512",
       "target": "11563",
-      "name": "3231 (direct) 6594",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11562",
       "source": "11512",
       "target": "11561",
-      "name": "3231 (direct) 6591",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11560",
       "source": "11512",
       "target": "11559",
-      "name": "3231 (direct) 6590",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11558",
       "source": "11512",
       "target": "11557",
-      "name": "3231 (direct) 6582",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11556",
       "source": "11512",
       "target": "11555",
-      "name": "3231 (direct) 6576",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11554",
       "source": "11512",
       "target": "11553",
-      "name": "3231 (direct) 3369",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11552",
       "source": "11512",
       "target": "11551",
-      "name": "3231 (direct) 3360",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11550",
       "source": "11512",
       "target": "11549",
-      "name": "3231 (direct) 3356",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11548",
       "source": "11512",
       "target": "11547",
-      "name": "3231 (direct) 3355",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11546",
       "source": "11512",
       "target": "11545",
-      "name": "3231 (direct) 3338",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11544",
       "source": "11512",
       "target": "11543",
-      "name": "3231 (direct) 3337",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11542",
       "source": "11512",
       "target": "11541",
-      "name": "3231 (direct) 3325",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11540",
       "source": "11512",
       "target": "11539",
-      "name": "3231 (direct) 3277",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11538",
       "source": "11512",
       "target": "11537",
-      "name": "3231 (direct) 3276",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11536",
       "source": "11512",
       "target": "11535",
-      "name": "3231 (direct) 3273",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11534",
       "source": "11512",
       "target": "11533",
-      "name": "3231 (direct) 3265",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11532",
       "source": "11512",
       "target": "11531",
-      "name": "3231 (direct) 3261",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11530",
       "source": "11512",
       "target": "11529",
-      "name": "3231 (direct) 3260",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11528",
       "source": "11512",
       "target": "11527",
-      "name": "3231 (direct) 3257",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11526",
       "source": "11512",
       "target": "11525",
-      "name": "3231 (direct) 3253",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11524",
       "source": "11512",
       "target": "11523",
-      "name": "3231 (direct) 3252",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11522",
       "source": "11512",
       "target": "11521",
-      "name": "3231 (direct) 3250",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11520",
       "source": "11512",
       "target": "11519",
-      "name": "3231 (direct) 3245",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11518",
       "source": "11512",
       "target": "11517",
-      "name": "3231 (direct) 3236",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11516",
       "source": "11512",
       "target": "11515",
-      "name": "3231 (direct) 3235",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11514",
       "source": "11512",
       "target": "11508",
-      "name": "3231 (direct) 3229",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11513",
       "source": "11512",
       "target": "11505",
-      "name": "3231 (direct) 3228",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11511",
       "source": "11508",
       "target": "11510",
-      "name": "3229 (direct) 6584",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11509",
       "source": "11508",
       "target": "11506",
-      "name": "3229 (direct) 3230",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     },
     {
       "id": "11507",
       "source": "11505",
       "target": "11506",
-      "name": "3228 (direct) 3230",
-      "interaction": "direct"
+      "interaction": "direct",
+      "curvature": 0.2
     }
   ]
 }

@@ -27,7 +27,7 @@ const syn_convert = (json) => {
        "avg_lifespan": avg_lifespan_ ? avg_lifespan_: -1,        
        "group": $contains(genes, ";") ? 2 : 1
        },
-     "links": elements.edges.data.{"id": id, "source": source, "target": target, "name": name, "interaction": interaction}
+     "links": elements.edges.data.{"id": id, "source": source, "target": target, "name": elements.nodes.data[id=source].genes, "interaction": interaction, "curvature": 0.2}
     }
     `
     const nodes_exp = jsonata(query);

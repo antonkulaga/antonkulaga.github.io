@@ -10,7 +10,7 @@ export default class App extends React.Component {
   render(){
     return (
         <div className="App">
-            <Graph3D json="graph/worm_graph.json" simplify="true"/>
+            <Graph3D json="graph/fly_graph.json"/>
         </div>
     );
   }
