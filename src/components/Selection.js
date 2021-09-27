@@ -5,10 +5,9 @@ import ForceGraph3D from '3d-force-graph';
 import SpriteText from "three-spritetext";
 
 
-export default class Selection extends React.Component {
-
-    render(){
-        return(
+const Selection = () =>
+{
+    return(
     <table>
         <tr>
             <td>
@@ -50,5 +49,5 @@ export default class Selection extends React.Component {
                 </h3>
             </td>
         </tr>
-    </table>)}
+    </table>)
 }
